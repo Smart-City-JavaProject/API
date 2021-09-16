@@ -1,0 +1,210 @@
+{
+   "term":"mumbai",
+   "moresuggestions":10,
+   "autoSuggestInstance":null,
+   "trackingID":"6143500f1116643020c35bb6f91650e6",
+   "misspellingfallback":false,
+   "suggestions":[
+      {
+         "group":"CITY_GROUP",
+         "entities":[
+            {
+               "geoId":"657",
+               "destinationId":"1640701",
+               "landmarkCityDestinationId":null,
+               "type":"CITY",
+               "redirectPage":"DEFAULT_PAGE",
+               "latitude":19.08889670290655,
+               "longitude":72.87088258842473,
+               "searchDetail":null,
+               "caption":"<span class='highlighted'>Mumbai</span>, Maharashtra, India",
+               "name":"Mumbai"
+            },
+            {
+               "geoId":"553248635976382264",
+               "destinationId":"12541391",
+               "landmarkCityDestinationId":null,
+               "type":"NEIGHBORHOOD",
+               "redirectPage":"DEFAULT_PAGE",
+               "latitude":19.09772175969489,
+               "longitude":72.83292589506993,
+               "searchDetail":null,
+               "caption":"Airport Area, <span class='highlighted'>Mumbai</span>, Maharashtra, India",
+               "name":"Airport Area"
+            },
+            {
+               "geoId":"553248635974586930",
+               "destinationId":"11426944",
+               "landmarkCityDestinationId":null,
+               "type":"NEIGHBORHOOD",
+               "redirectPage":"DEFAULT_PAGE",
+               "latitude":19.100603794752917,
+               "longitude":72.82920559251419,
+               "searchDetail":null,
+               "caption":"Juhu, <span class='highlighted'>Mumbai</span>, Maharashtra, India",
+               "name":"Juhu"
+            },
+            {
+               "geoId":"6125298",
+               "destinationId":"1706340",
+               "landmarkCityDestinationId":null,
+               "type":"CITY",
+               "redirectPage":"DEFAULT_PAGE",
+               "latitude":19.119953382144775,
+               "longitude":72.86672655219611,
+               "searchDetail":null,
+               "caption":"Andheri East, <span class='highlighted'>Mumbai</span>, Maharashtra, India",
+               "name":"Andheri East"
+            },
+            {
+               "geoId":"3000468528",
+               "destinationId":"10429851",
+               "landmarkCityDestinationId":null,
+               "type":"CITY",
+               "redirectPage":"DEFAULT_PAGE",
+               "latitude":19.204401,
+               "longitude":72.851425,
+               "searchDetail":null,
+               "caption":"Kandivali, <span class='highlighted'>Mumbai</span>, Maharashtra, India",
+               "name":"Kandivali"
+            },
+            {
+               "geoId":"553248635976705950",
+               "destinationId":"12502727",
+               "landmarkCityDestinationId":null,
+               "type":"NEIGHBORHOOD",
+               "redirectPage":"DEFAULT_PAGE",
+               "latitude":19.063646092135492,
+               "longitude":72.86335709592235,
+               "searchDetail":null,
+               "caption":"Bandra Kurla complex, <span class='highlighted'>Mumbai</span>, Mumbai Suburban, Maharashtra, India",
+               "name":"Bandra Kurla complex"
+            },
+            {
+               "geoId":"553248633981691147",
+               "destinationId":"10873447",
+               "landmarkCityDestinationId":null,
+               "type":"NEIGHBORHOOD",
+               "redirectPage":"DEFAULT_PAGE",
+               "latitude":19.078960144991225,
+               "longitude":72.85071480982255,
+               "searchDetail":null,
+               "caption":"Santacruz, <span class='highlighted'>Mumbai</span>, Maharashtra, India",
+               "name":"Santacruz"
+            },
+            {
+               "geoId":"553248630201281263",
+               "destinationId":"10784063",
+               "landmarkCityDestinationId":null,
+               "type":"NEIGHBORHOOD",
+               "redirectPage":"DEFAULT_PAGE",
+               "latitude":19.055597132341152,
+               "longitude":72.82906364744561,
+               "searchDetail":null,
+               "caption":"Bandra West, <span class='highlighted'>Mumbai</span>, Maharashtra, India",
+               "name":"Bandra West"
+            }
+         ]
+      },
+      {
+         "group":"HOTEL_GROUP",
+         "entities":[
+            {
+               "geoId":"860842",
+               "destinationId":"233414",
+               "landmarkCityDestinationId":null,
+               "type":"HOTEL",
+               "redirectPage":"DEFAULT_PAGE",
+               "latitude":19.101775,
+               "longitude":72.827032,
+               "searchDetail":null,
+               "caption":"JW Marriott <span class='highlighted'>Mumbai</span> Juhu, Mumbai, Maharashtra, India",
+               "name":"JW Marriott Mumbai Juhu"
+            },
+            {
+               "geoId":"3020992",
+               "destinationId":"333310",
+               "landmarkCityDestinationId":null,
+               "type":"HOTEL",
+               "redirectPage":"DEFAULT_PAGE",
+               "latitude":19.173413,
+               "longitude":72.860695,
+               "searchDetail":null,
+               "caption":"The Westin <span class='highlighted'>Mumbai</span> Garden City, Mumbai, Maharashtra, India",
+               "name":"The Westin Mumbai Garden City"
+            },
+            {
+               "geoId":"27807422",
+               "destinationId":"890837504",
+               "landmarkCityDestinationId":null,
+               "type":"HOTEL",
+               "redirectPage":"DEFAULT_PAGE",
+               "latitude":19.110203,
+               "longitude":72.881811,
+               "searchDetail":null,
+               "caption":"<span class='highlighted'>Mumbai</span> Staytion Dorm - A Backpackers Hostel, Mumbai, Maharashtra, India",
+               "name":"Mumbai Staytion Dorm - A Backpackers Hostel"
+            }
+         ]
+      },
+      {
+         "group":"LANDMARK_GROUP",
+         "entities":[
+            {
+               "geoId":"6182453",
+               "destinationId":"1728321",
+               "landmarkCityDestinationId":"1640701",
+               "type":"LANDMARK",
+               "redirectPage":"DEFAULT_PAGE",
+               "latitude":19.064912,
+               "longitude":72.867714,
+               "searchDetail":null,
+               "caption":"U.S. Consulate General, <span class='highlighted'>Mumbai</span>, Maharashtra, India",
+               "name":"U.S. Consulate General"
+            }
+         ]
+      },
+      {
+         "group":"TRANSPORT_GROUP",
+         "entities":[
+            {
+               "geoId":"6271560",
+               "destinationId":"1772640",
+               "landmarkCityDestinationId":null,
+               "type":"TRAIN_STATION",
+               "redirectPage":"DEFAULT_PAGE",
+               "latitude":19.054989,
+               "longitude":72.839956,
+               "searchDetail":null,
+               "caption":"<span class='highlighted'>Mumbai</span> Bandra Station, Mumbai, Maharashtra, India",
+               "name":"Mumbai Bandra Station"
+            },
+            {
+               "geoId":"6182429",
+               "destinationId":"1728308",
+               "landmarkCityDestinationId":null,
+               "type":"TRAIN_STATION",
+               "redirectPage":"DEFAULT_PAGE",
+               "latitude":19.171715,
+               "longitude":72.95661,
+               "searchDetail":null,
+               "caption":"<span class='highlighted'>Mumbai</span> Mulund Station, Mumbai, Maharashtra, India",
+               "name":"Mumbai Mulund Station"
+            },
+            {
+               "geoId":"6169712",
+               "destinationId":"1722024",
+               "landmarkCityDestinationId":null,
+               "type":"TRAIN_STATION",
+               "redirectPage":"DEFAULT_PAGE",
+               "latitude":19.017747,
+               "longitude":72.843923,
+               "searchDetail":null,
+               "caption":"<span class='highlighted'>Mumbai</span> Dadar Station, Mumbai, Maharashtra, India",
+               "name":"Mumbai Dadar Station"
+            }
+         ]
+      }
+   ],
+   "geocodeFallback":false
+}
